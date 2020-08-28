@@ -6,4 +6,9 @@ Due to the constraints of GitHub, I cannot upload weights file in the repo. So, 
 
 There is a test.png which is a snapshot from a tested video, Unfortunately I cannot share the whole video, but I can share a snapshot from that tested video. As it can be seen that if the Booth is in direct LOS of the camera, detection works pretty fine, same goes for the person detection. Sorry for the low-res video but all the videos that I had for test and train were indeed low-res, image is also a bit blown out but you got the point anyhow.
 
+## Example Image
+
+<div align="center"> 
+  <img src="https://github.com/kairavkkp/Electoral-Fraud-Detection/blob/master/test.png" />  
+</div>
 
